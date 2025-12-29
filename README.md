@@ -1,4 +1,4 @@
-# File Signature Checker (Beginner Python)
+# File Signature Checker
 
 ## Description
 This project contains a **Python script** that checks a file’s **signature (magic number)** to identify its real file type.  
