@@ -23,7 +23,7 @@ It is used to demonstrate how suspicious files (including malware) can be detect
 ---
 
 ## Files Included
-- `file_signature_check.py` – Python script for checking file signatures
+- `file_signature_checker.py` – Python script for checking file signatures
 - `README.md` – Project documentation
 - `malshare_sample.bin` – Malware sample (renamed for safety)
 - `Que-es-Malware.png` – sample image
