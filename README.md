@@ -33,6 +33,7 @@ It is used to demonstrate how suspicious files (including malware) can be detect
 ## Requirements
 - Python 3.x
 - Windows Command Prompt (or Terminal)
+- Malware samples: https://github.com/mikesiko/PracticalMalwareAnalysis-Labs
 
 ---
 
