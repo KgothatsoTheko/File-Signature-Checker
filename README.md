@@ -55,6 +55,8 @@ It is used to demonstrate how suspicious files (including malware) can be detect
 
 ## Screenshot Section
 
+ <img width="753" height="141" alt="image" src="https://github.com/user-attachments/assets/fd2b5542-7f5d-4a56-bd93-4e5a58b0df38" />
+
 <img width="1702" height="908" alt="image" src="https://github.com/user-attachments/assets/6102abd2-a84d-4e7e-9822-0d8b4c500f2e" />
 
 ## Conclusion
